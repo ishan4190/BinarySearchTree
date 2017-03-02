@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ishan\documents\visual studio 2015\projects\binarysearchtree\binarysearchtree\source.cpp(50): warning C4715: 'Search': not all control paths return a value
+  BinarySearchTree.vcxproj -> c:\users\ishan\documents\visual studio 2015\Projects\BinarySearchTree\Debug\BinarySearchTree.exe
+  BinarySearchTree.vcxproj -> c:\users\ishan\documents\visual studio 2015\Projects\BinarySearchTree\Debug\BinarySearchTree.pdb (Full PDB)
